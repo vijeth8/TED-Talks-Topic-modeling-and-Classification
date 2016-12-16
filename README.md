@@ -2,6 +2,20 @@
 
 ![alt tag](img.png)
 
+# REPORT:
+
+Business motivation :  Searching TED talks or classifying the based on content. We can extend this and personalize the talks as well. This project is mainly to understand the concepts covered in class and apply them.
+
+Problem formulation :
+
+1- Understanding the topics and words that describe the broad categories of TED talks.
+
+2- classifying the talks based on the content of the talk.
+
+3- Being able to retrieve a relevant TED talk using a sentence or a keyword
+
+
+
 ## Goal:
 
 #### Topic Modeling 
@@ -18,10 +32,10 @@ Web scraped TED talk transcripts Category wise
 
 5 Categories: 
 
-business = 123
-entertainment = 152
-global issues = 245
-science = 209
+business = 123 |
+entertainment = 152 |
+global issues = 245 |
+science = 209 |
 technology = 249
 
 ## Pre-process:
@@ -43,12 +57,7 @@ NMF better than LDA
 
 pyLDAvis
 
-Around 40% accuracy after manually labelling the topics and assigning the document to the topic with maximum weight 
-
-
-# REPORT:
-
-
+Around 45% accuracy after manually labelling the topics and assigning the document to the topic with maximum weight 
 
 
 
@@ -56,23 +65,23 @@ Around 40% accuracy after manually labelling the topics and assigning the docume
 
 # Base line accuracy : 30%
 
-# Accuracy on TFIDF :
+# Accuracy and AUC on TFIDF :
 
-### SVM = 72%
+### SVM = ACCURACY: 72% | AUC: 0.88
 
-### Random forest = 63%
+### Random forest = ACCURACY: 63% | AUC: 0.85
 
-### knn = 64%
+### knn = ACCURACY: 64% | AUC: 0.85
 
-### gradient boosting = 54%
+### gradient boosting = ACCURACY: 54% | AUC: 0.74
 
-### LDA =  49 %
+### LDA = ACCURACY: 49 % | AUC: 0.7 
 
-# Accuracy on Doc2Vec document vectors :
+# Accuracy on Doc2Vec document vectors (Just to see how they perform):
 
-### Random Forest = 57%
+### Random Forest =  ACCURACY: 57%
 
-### Knn = 56.6%
+### Knn = ACCURACY: 56.6%
 
 
 

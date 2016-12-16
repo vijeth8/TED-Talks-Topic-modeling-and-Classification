@@ -28,7 +28,7 @@ technology = 249
 
 #### encoding
 
-### Stop words removal and punctuations
+#### Stop words removal and punctuations
 
 #### Lemmatization
 
@@ -44,3 +44,33 @@ NMF better than LDA
 pyLDAvis
 
 Around 40% accuracy after manually labelling the topics and assigning the document to the topic with maximum weight 
+
+# Base line performance : 30%
+
+# Accuracy on TFIDF :
+
+### SVM = 72%
+
+### Random forest = 63%
+
+### knn = 64%
+
+### gradient boosting = 54%
+
+### LDA =  49 %
+
+# Accuracy on Doc2Vec document vectors :
+
+### Random Forest = 57%
+
+### Knn = 56.6%
+
+
+
+
+
+
+
+
+
+

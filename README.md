@@ -45,7 +45,16 @@ pyLDAvis
 
 Around 40% accuracy after manually labelling the topics and assigning the document to the topic with maximum weight 
 
-# Base line performance : 30%
+
+# REPORT:
+
+
+
+
+
+
+
+# Base line accuracy : 30%
 
 # Accuracy on TFIDF :
 
@@ -64,7 +73,6 @@ Around 40% accuracy after manually labelling the topics and assigning the docume
 ### Random Forest = 57%
 
 ### Knn = 56.6%
-
 
 
 

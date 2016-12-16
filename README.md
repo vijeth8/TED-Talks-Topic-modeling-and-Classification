@@ -4,7 +4,8 @@
 
 # REPORT:
 
-Business motivation :  Searching TED talks & classifying the based on content. We can extend this and personalize the talks as well. This project is mainly to understand the concepts covered in class and apply them.
+Business motivation :  
+Searching TED talks & classifying the based on content. We can extend this and personalize the talks as well. This project is mainly to understand the concepts covered in class and apply them.
 
 Problem formulation :
 

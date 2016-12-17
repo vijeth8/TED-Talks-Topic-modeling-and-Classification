@@ -84,6 +84,10 @@ Around 45% accuracy after manually labelling the topics and assigning the docume
 
 ### Knn = ACCURACY: 56.6%
 
+## Future plans:
+
+LDA2vec
+
 
 
 ###references: 

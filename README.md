@@ -27,7 +27,7 @@ Problem formulation :
 
 ## Data Descreption:
 
-Web scraped TED talk transcripts Category wise
+Web scraped TED talk transcripts Category wise  -- I included my code for the scraper too.
 
 835 TED talks 
 

@@ -72,7 +72,11 @@ pyLDAvis
 
 Around 45% accuracy after manually labelling the topics and assigning the document to the topic with maximum weight 
 
+## Doc2Vec:
 
+Visualization using MDS(Multi-Dimensional Scaling) - Plots similarity between document vectors.
+
+![alt tag](doc2vec.png)
 
 
 

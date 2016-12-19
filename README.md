@@ -51,8 +51,20 @@ technology = 249
 
 ## EDA
 
+![alt tag](eda_1.png)
+
+![alt tag](eda_2.png)
+
+![alt tag](eda_wc.png)
+
 ## Topic Modeling:
 TFIDF/count vectorize 
+
+LDA:
+![alt tag](LDA_clusters.png)
+
+nmf:
+![alt tag](NMF_clusters.png)
 
 NMF better than LDA
 

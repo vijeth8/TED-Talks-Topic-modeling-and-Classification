@@ -74,7 +74,9 @@ Around 45% accuracy after manually labelling the topics and assigning the docume
 
 ## Doc2Vec:
 
-Visualization using MDS(Multi-Dimensional Scaling) - Plots similarity between document vectors.
+Visualization using Manifold's MDS(Multi-Dimensional Scaling) function - Plots similarity between document vectors.
+
+5 colors represent 5 categories :
 
 ![alt tag](doc2vec.png)
 

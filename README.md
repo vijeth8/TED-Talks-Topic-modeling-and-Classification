@@ -61,10 +61,10 @@ technology = 249
 TFIDF/count vectorize 
 
 LDA:
-![alt tag](LDA_clusters.png)
+![alt tag](images/LDA_clusters.png)
 
 nmf:
-![alt tag](NMF_clusters.png)
+![alt tag](images/NMF_clusters.png)
 
 NMF better than LDA
 
@@ -78,7 +78,7 @@ Visualization using Manifold's MDS(Multi-Dimensional Scaling) function - Plots s
 
 5 colors represent 5 categories :
 
-![alt tag](doc2vec.png)
+![alt tag](images/doc2vec.png)
 
 
 

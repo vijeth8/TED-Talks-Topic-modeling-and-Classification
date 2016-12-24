@@ -1,6 +1,6 @@
 # TED-Talks-Topic-modeling-and-classification
 
-![alt tag](img.png)
+![alt tag](images/img.png)
 
 # REPORT:
 
@@ -51,11 +51,11 @@ technology = 249
 
 ## EDA
 
-![alt tag](eda_1.png)
+![alt tag](images/eda_1.png)
 
-![alt tag](eda_2.png)
+![alt tag](images/eda_2.png)
 
-![alt tag](eda_wc.png)
+![alt tag](images/eda_wc.png)
 
 ## Topic Modeling:
 TFIDF/count vectorize 

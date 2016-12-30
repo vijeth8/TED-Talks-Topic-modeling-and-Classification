@@ -77,11 +77,11 @@ Visualization using Manifold's MDS(Multi-Dimensional Scaling) function - Plots s
 
 ![alt tag](images/doc2vec.png)
 
-# BEST MODEL - SVM : 
-## parameters : [SVC(C=1, cache_size=200, class_weight=None, coef0=0.0,
-## decision_function_shape=None, degree=3, gamma=1, kernel='sigmoid',
-## max_iter=-1, probability=False, random_state=None, shrinking=True,
-##  tol=0.001, verbose=False)]
+# BEST MODEL - SVM - 78% accuracy : 
+### parameters : [SVC(C=1, cache_size=200, class_weight=None, coef0=0.0,
+### decision_function_shape=None, degree=3, gamma=1, kernel='sigmoid',
+### max_iter=-1, probability=False, random_state=None, shrinking=True,
+###  tol=0.001, verbose=False)]
 
 # Base line accuracy : 30%
 

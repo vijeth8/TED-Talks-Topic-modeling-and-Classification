@@ -4,9 +4,6 @@
 
 # REPORT:
 
-Business motivation :  
-Searching TED talks & classifying the based on content. We can extend this and personalize the talks as well. This project is mainly to understand the concepts covered in class and apply them.
-
 Problem formulation :
 
 1- Understanding the topics and words that describe the broad categories of TED talks.
@@ -80,17 +77,21 @@ Visualization using Manifold's MDS(Multi-Dimensional Scaling) function - Plots s
 
 ![alt tag](images/doc2vec.png)
 
-
+# BEST MODEL - SVM : 
+## parameters : [SVC(C=1, cache_size=200, class_weight=None, coef0=0.0,
+## decision_function_shape=None, degree=3, gamma=1, kernel='sigmoid',
+## max_iter=-1, probability=False, random_state=None, shrinking=True,
+##  tol=0.001, verbose=False)]
 
 # Base line accuracy : 30%
 
 # Accuracy and AUC on TFIDF :
 
-### SVM = ACCURACY: 72% | AUC: 0.88
+### SVM = ACCURACY: 78% | AUC: 0.88
 
 ### Random forest = ACCURACY: 63% | AUC: 0.85
 
-### knn = ACCURACY: 64% | AUC: 0.85
+### knn = ACCURACY: 65% | AUC: 0.85
 
 ### gradient boosting = ACCURACY: 54% | AUC: 0.74
 

@@ -85,7 +85,7 @@ Visualization using Manifold's MDS(Multi-Dimensional Scaling) function - Plots s
 
 # Base line accuracy : 30%
 
-# Accuracy and AUC on TFIDF :
+# Comparing all models :
 
 ### SVM = ACCURACY: 78% | AUC: 0.88
 
